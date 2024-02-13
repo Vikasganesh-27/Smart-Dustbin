@@ -1,0 +1,1 @@
+This repository contains code and documentation for a smart dustbin project. The project incorporates ultrasonic sensors for touchless waste disposal. The code ensures efficient lid opening and closing based on proximity detection. Feel free to explore, contribute, and improve this innovative solution for cleaner and smarter waste management.
